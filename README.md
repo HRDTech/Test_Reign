@@ -18,8 +18,8 @@ should not reappear even if the data is refreshed.</br>
 It is not necessary to create an optimised layout for tablet devices.</br>
 You are welcome to use any 3rd party libraries to complete the task.</br>
 </br>
-<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640025333.png" width="100" >
-<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640025819.png" width="100"/>
-<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640027990.png" width="100" >
-<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640027992.png" width="100"/>
-<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640028232.png" width="100"/>
+<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640025333.png" width="150" >
+<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640025819.png" width="150"/>
+<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640027990.png" width="150" >
+<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640027992.png" width="150"/>
+<img align="left" hspace="10" src="Captura_pantalla/Screenshot_1640028232.png" width="150"/>
