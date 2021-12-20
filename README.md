@@ -17,3 +17,9 @@ on a cell, and delete an individual post from this view (see mockups). Once a po
 should not reappear even if the data is refreshed.</br>
 It is not necessary to create an optimised layout for tablet devices.</br>
 You are welcome to use any 3rd party libraries to complete the task.</br>
+
+<img src="Captura_pantalla/Screenshot_1640025333.png" width="200" >
+<img src="Captura_pantalla/Screenshot_1640025819.png" width="200"/>
+<img src="Captura_pantalla/Screenshot_1640027990.png" width="200" >
+<img src="Captura_pantalla/Screenshot_1640027992.png" width="200"/>
+<img src="Captura_pantalla/Screenshot_1640028232.png" width="200"/>
